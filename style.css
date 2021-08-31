@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color:#181818;
+    color: #FFFFFF;
+}
+
+button{
+    display: block;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+div{
+    margin-top: 2rem;
+}
+
+a{
+   padding: 0.8rem 0.8rem 0.8rem 0.8rem;
+   color: #1597BB
+}
+
+input {
+    background-color: #3A3B3C;
+    color: #FFFFFF;
+}
